@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\simomil"
+		},
+		{
+			"path": "..\\siwamil"
+		}
+	],
+	"settings": {
+		"editor.formatOnSave": true
+	}
+}

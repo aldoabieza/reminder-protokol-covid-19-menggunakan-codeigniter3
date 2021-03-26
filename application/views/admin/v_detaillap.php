@@ -1,0 +1,1 @@
+<img style="width: 50%; height: 50%;" src="<?= base_url('./uploads/') . $laporan['foto_laporan']; ?>" class="img-fluid" alt="Responsive image">
